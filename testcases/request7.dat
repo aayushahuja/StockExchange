@@ -1,0 +1,21 @@
+1	Mr.x1	4	sell	10	s1	1200	0
+2	Mr.x2	4	buy	10	s1	1100	0 
+3	Mr.x3	4 	sell	10	s2	1500	0
+4	Mr.x4	4	buy	10	s2	1100	0
+5	Mr.x5	5	buy	10	s2	1800	0
+5	Mr.x6	20	sell	10	s5	1800	0
+6	Mr.x7	20	sell	10	s6	1800	0
+6	Mr.x8	20	sell	10	s7	1800	0
+11	Mr.x9	5	buy	10	s5	1100	0
+12	Mr.x10	6	buy	10	s6	1200	0
+12	Mr.x11	6	buy	10	s7	1700	0
+13	Mr.x12	5	buy	10	s5	1800	0
+14	Mr.x13	6	buy	10	s6	1800	0
+15	Mr.x14	6	buy	10	s7	1800	0
+16	Mr.x15	20	sell	10	s8	1800	0
+17	Mr.x16	20	sell	10	s9	1800	0
+18	Mr.x17	6	buy	10	s8	1100	0
+18	Mr.x18	6	buy	10	s9	1100	0
+18	Mr.x19	6	buy	10	s8	1800	0
+18	Mr.x20	6	buy	10	s9	1800	0
+ 
